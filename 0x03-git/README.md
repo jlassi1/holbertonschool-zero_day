@@ -1,1 +1,2 @@
-git project 
+git project  
+add file from terminal to gitHub.com 
